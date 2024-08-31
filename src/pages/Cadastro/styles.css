@@ -1,0 +1,17 @@
+#cas{
+    border-bottom: none;
+}
+
+#container{
+    margin: 0 auto;
+    width: 150px;
+    
+}
+
+#child{
+    margin-bottom: 10px;
+}
+
+#button{
+    margin-right: 9.2px;
+}

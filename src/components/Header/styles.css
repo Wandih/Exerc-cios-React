@@ -1,0 +1,31 @@
+header{
+    padding: 1px;
+    justify-content: center;
+
+}
+
+nav{
+    align-self: center;
+}
+
+a{
+    text-decoration: none;
+    display: flex;
+    color: white;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    
+}
+
+#uli{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    
+}
+
+#lista{
+    text-align: center;
+}
